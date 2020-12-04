@@ -4,7 +4,7 @@ init -990 python:
         author="inmakrokeyt Rai99 Darkskull Dawn Zenith and Booplicate",
         name="Just Yuri Detection",
         description="Remember how Just Yuri is able to detect Monika After Story? Now, this submod works as the opposite!",
-        version="1.0.2"
+        version="1.0.1"
     )
 
 # Register the updater
